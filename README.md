@@ -3,6 +3,10 @@
 ## Description 
 This application allows the user to create a database with the values of their inventory supply, pricing, and category. This is an entirely backend application. 
 
+https://watch.screencastify.com/v/0CVeyG3OcVj6lnxouVnI
+
+![Screenshot of the Homework](./Screenshot-of-Insomnia.png)
+
 ---
 
 ## Installation 
